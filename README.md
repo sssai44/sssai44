@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sssai44
-- 🌱 I’m Currently learning with python and C
+- 🌱 I’m Currently learning with python and C++
 - Working around Webdev  
 - Reach me at sshanmuk31@gmail.com
 
